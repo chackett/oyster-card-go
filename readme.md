@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/chackett/oyster-test)](https://goreportcard.com/report/github.com/chackett/oyster-test)
+
 # Tech test Oyster card
 
 Conor Hackett - December 2019
